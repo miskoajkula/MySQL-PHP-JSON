@@ -6,7 +6,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
 }
 
 
-function createstudent()
+function createStudent()
 {
 	global $connect;
 	
